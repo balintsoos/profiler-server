@@ -1,0 +1,15 @@
+{
+  "name": "profiler-server",
+  "version": "0.0.1",
+  "description": "Profiler Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Balint Soos",
+  "license": "MIT",
+  "dependencies": {
+    "@koa/router": "13.1.0",
+    "koa": "2.15.3"
+  }
+}
